@@ -1,2 +1,2 @@
 # MyUselessRepo
-This is absolutely educational and no applicable use.
+This is has no applicable use.
